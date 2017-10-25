@@ -93,6 +93,7 @@ a:hover {
 
 #sidebar ul {
     list-style: none;
+    padding-left: 0px;
 }
 
 #sidebar li {
@@ -104,10 +105,6 @@ a:hover {
     text-decoration: none;
     font-size: 25px;
     color: #788188;
-}
-
-.url {
-  display: inline;
 }
 
 .list-inline > li {
