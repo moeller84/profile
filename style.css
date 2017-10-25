@@ -1,0 +1,87 @@
+body {
+  background-color: #F3E9D0;
+  font-family: 'Open Sans', sans-serif;
+  color: #7d7d7d;
+  font-size: 15px;
+  line-height: 1.6em;
+}
+
+h1 {
+  color: #171738;
+  font-family: 'Raleway', sans-serif;
+  font-size: 20px;
+  line-height: 1em;
+  padding: 0px;
+}
+
+h2 {
+  color: #171738;
+  font-family: 'Raleway', sans-serif;
+  font-size: 15px;
+  line-height: 1em;
+  padding: 0px;
+}
+
+h3 {
+  color: #171738;
+  font-family: 'Raleway', sans-serif;
+  font-size: 15px;
+  line-height: 1em;
+  padding: 0px;
+}
+
+a {
+  text-decoration: underline;
+  color: #171738;
+}
+
+a:hover {
+  color: red;
+}
+
+  .container {
+  width: 950px;   /* This sets the width */
+  margin: 0 auto; /* This automatically sets left/right margins */
+}
+
+.card {
+  background: white;
+  border: solid white;
+  border-radius: 7px;
+  box-shadow: 1px 1px;
+  padding: 40px;
+  margin: 15px;
+  text-align: center;
+}
+
+ ul {
+  padding-left: 0;
+ }
+
+ul li {
+ display: inline-block;
+ padding: 15px;
+}
+
+.img-circle {
+  border-radius: 50%;
+}
+.text-center {
+  text-align: center;
+}
+
+.text_column_right {
+  text-align: start;
+  padding-left: 20px;
+  vertical-align: top;
+}
+
+#moviecard-header {
+  font-size: 25px;
+  padding-bottom: 25px;
+}
+
+.fa {
+  display: inline-block;
+  text-rendering: auto;
+}
