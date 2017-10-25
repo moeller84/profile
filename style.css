@@ -54,15 +54,6 @@ a:hover {
   text-align: center;
 }
 
- ul {
-  padding-left: 0;
- }
-
-ul li {
- display: inline-block;
- padding: 15px;
-}
-
 .img-circle {
   border-radius: 50%;
 }
@@ -117,4 +108,13 @@ ul li {
 
 .url {
   display: inline;
+}
+
+.list-inline > li {
+  display: inline-block;
+  padding: 0px 20px;
+}
+
+.list-inline {
+  padding-left: 0px;
 }
